@@ -1,0 +1,7 @@
+C:\Users\Clarissa\source\repos\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\Clarissa\source\repos\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Clarissa\source\repos\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Clarissa\source\repos\PROYECTO\obj\Debug\PROYECTO.csprojAssemblyReference.cache
+C:\Users\Clarissa\source\repos\PROYECTO\obj\Debug\PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\Clarissa\source\repos\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Clarissa\source\repos\PROYECTO\obj\Debug\PROYECTO.pdb
